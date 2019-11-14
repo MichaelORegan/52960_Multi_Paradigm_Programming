@@ -1,0 +1,60 @@
+λ testshop.exe
+Shop has 200.00 in cash
+--------------------------
+PRODUCT NAME: Coke Can
+PRODUCT PRICE: 1.10
+-------------
+The shop has 100 of the above
+--------------------------
+PRODUCT NAME: Bread
+PRODUCT PRICE: 0.70
+-------------
+The shop has 30 of the above
+--------------------------
+PRODUCT NAME: Spaghetti
+PRODUCT PRICE: 1.20
+-------------
+The shop has 25 of the above
+--------------------------
+PRODUCT NAME: Tomato Sauce
+PRODUCT PRICE: 0.80
+-------------
+The shop has 15 of the above
+--------------------------
+PRODUCT NAME: Roll of Bin Bags
+PRODUCT PRICE: 2.50
+-------------
+The shop has 4 of the above
+--------------------------
+PRODUCT NAME: Milk
+PRODUCT PRICE: 0.95
+-------------
+The shop has 10 of the above
+--------------------------
+PRODUCT NAME: Cake
+PRODUCT PRICE: 6.00
+-------------
+The shop has 3 of the above
+--------------------------
+
+Customer name is: Thor and they have: 20.00 for their budget
+Thor's Shopping List
+--------------------------
+2 Coke Can
+1 Bread
+1 Spaghetti
+1 Tomato Sauce
+1 Roll of Bin Bags
+3 Milk
+1 Cake
+
+Customer name is: Loki and they have: 20.00 for their budget
+Loki's Shopping List
+--------------------------
+10 Coke Can
+1 Bread
+1 Spaghetti
+1 Tomato Sauce
+1 Roll of Bin Bags
+2 Milk
+1 Cake
